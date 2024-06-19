@@ -3,5 +3,5 @@
 BY: Keertan Sharma
 
 <ul>
-  House price prediction
+  <li> House price prediction</li>
 </ul>
